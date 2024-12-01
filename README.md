@@ -32,7 +32,7 @@ Over the past five years, I’ve built a solid foundation as a no-code developer
 - **Creative Vision:** Incorporating illustration and design to deliver projects that are not only functional but visually captivating.
 
 ##  🏄🏼‍♂️ Fun Facts About Me:
-When I’m not coding or designing, you’ll find me: 
+When I’m not coding, designing or drawing, you’ll find me: 
 - 🎮 <strong>Playing video games - Dofus, Supervive, and Wakfu.<strong>  
 - 🎨 Sketching and illustrating.
 - 🎧 Getting lost in my favorite music playlists.
