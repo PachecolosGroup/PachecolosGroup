@@ -49,8 +49,9 @@ When I’m not coding or designing, you’ll find me:
 
 ---
 
-### 🙏 Closing Note  
-**All praise to the Most High. الحمد لله**  
+
+**All praise to the Most High.
+ الحمد لله**  
 
 ---
 
