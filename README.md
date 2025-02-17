@@ -23,7 +23,7 @@ I’m a passionate **front-end developer** and **UX/UI designer** who loves craf
 - **Web Development**: [HTML](https://developer.mozilla.org/en-US/docs/Web/html), [CSS](https://developer.mozilla.org/en-US/docs/Web/css), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript), [React](https://react.dev/), [Tailwind CSS](https://tailwindcss.com/).  
 - **Design**: [Figma](https://www.figma.com/), [Adobe Illustrator](https://adobe.com/illustrator), [Clip Studio Paint](https://www.clipstudio.net/es/).  
 - **Version Control**: [Git](https://git-scm.com/).  
-- **Tools**: [Visual Studio Code](https://code.visualstudio.com/), Webflow, WordPress, Elementor.  
+- **Tools**: [Visual Studio Code](https://code.visualstudio.com/), [Webflow](https://webflow.com/), WordPress, [Elementor](https://elementor.com/).  
 
 ---
 
