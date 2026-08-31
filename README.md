@@ -37,11 +37,8 @@ When I’m not coding or designing, you’ll find me:
 
 ---
 
-
 **All praise to the Most High.
  الحمد لله**  
-
----
 
 <!--  
 This is a ✨ special ✨ repository.  
