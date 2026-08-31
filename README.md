@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=19&pause=1000&width=435&lines=Sometimes+you+have+to+push+your+luck.)](https://git.io/typing-svg)  
 
----
-
 ### 🌐 Connect with Me  
 <a href="https://www.instagram.com/pachecolos_group/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.behance.net/pachecolos_group"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>  <a href="https://pachecolosgroup.webflow.io/"><img src="https://img.shields.io/badge/Website-FE5F55?style=for-the-badge&logo=About.me&logoColor=black"></a>  <a href="https://www.linkedin.com/in/pachecolos-group/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 
