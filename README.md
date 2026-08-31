@@ -11,11 +11,8 @@
 
 ### 🚀 About Me  
 Hi, I’m **César Bernardo Pacheco Riveras**, also known as **Pachecolos_group**!  
-I’m a passionate **front-end developer** and **UX/UI designer** who loves crafting visually stunning, user-friendly digital experiences. With a background in **graphic design** and **illustration**, I bring a creative edge to every project I tackle.  
-
-- 🖌️ Over **5 years of experience** as a **no-code developer** and **graphic designer** using tools like Webflow, WordPress, and Elementor.  
-- 🎓 **Systems Engineer graduate**, currently deep-diving into **JavaScript**, mastering libraries and frameworks like **React**, **Node.js**, and **Next.js**.  
-- 🎯 My mission: Build interactive web designs and eventually expand into mobile app development.  
+I’m a passionate **front-end developer** and **UX/UI designer** who loves crafting visually stunning, user-friendly digital experiences. 
+With a background in **graphic design** and **illustration**, I bring a creative edge to every project I tackle.  
 
 ---
 
@@ -31,13 +28,6 @@ I’m a passionate **front-end developer** and **UX/UI designer** who loves craf
 - **Front-End Development**: Expertise in crafting clean, responsive, and accessible websites.  
 - **UX/UI Design**: Designing intuitive, user-centered interfaces.  
 - **Creative Vision**: Integrating illustration and graphic design to create visually captivating projects.  
-
----
-
-### 🌱 Currently Learning  
-- Advanced **React** concepts and **Node.js**.  
-- Exploring **Next.js** for dynamic, server-rendered applications.  
-- Dipping into **mobile app development**.  
 
 ---
 
